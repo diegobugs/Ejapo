@@ -1,2 +1,2 @@
-export { default as MainNavigator } from './Navigator';
-export type { MainStackParamList } from './Navigator';
+export { default as MainNavigator } from "./Navigator";
+export type { MainStackParamList, TabParamList } from "./Navigator";
